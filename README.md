@@ -36,6 +36,14 @@ Sciences (Grenoble INP - Phelma, UGA). I use this page as a gateway to share all
 <h4 align="left">Diverse:</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DkhAnass&label=Profile%20views&color=0e75b6&style=flat" alt="DkhAnass" height="30" />
+  <a href="https://www.linkedin.com/in/dkhanass/" target="_blank" title="">
+  </a>
+  <a href="https://github.com/DkhAnass?tab=followers" target="_blank" title="">
+    <img src="https://img.shields.io/github/followers/DkhAnass?label=Followers&style=social" alt="GitHub Badge" height="30"/>
+  </a>
+</p>
 
 </p>
 
