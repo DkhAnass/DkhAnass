@@ -39,14 +39,7 @@ Sciences (Grenoble INP - Phelma, UGA). I use this page as a gateway to share all
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/DkhAnass/github-readme-stats%22%3E
-    <img alt="Dkheila Anass's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DkhAnass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/maryout/github-readme-stats%22%3E
-    <img alt="Dkheila Anass's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/username=DkhAnass&langs_count=8&count_private=true&hide=html,shell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+
 
 <!---
 DkhAnass/DkhAnass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
