@@ -49,6 +49,12 @@ Sciences (Grenoble INP - Phelma, UGA). I use this page as a gateway to share all
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkhAnass&layout=compact)](https://github.com/DkhAnass/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DkhAnass&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DkhAnass&repo=convoychat" />
+</a>
 
 
 
