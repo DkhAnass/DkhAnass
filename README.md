@@ -44,6 +44,14 @@ Sciences (Grenoble INP - Phelma, UGA). I use this page as a gateway to share all
     <img src="https://img.shields.io/github/followers/DkhAnass?label=Followers&style=social" alt="GitHub Badge" height="30"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/YasserKharj/github-readme-stats%22%3E
+    <img alt="Dkheila Anass Github Stats" src="https://github-readme-stats.vercel.app/api?username=DkhAnass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/maryout/github-readme-stats%22%3E
+    <img alt= "Dkheila Anass Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkhAnass&langs_count=8&count_private=true&hide=html,shell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
 
 </p>
 
