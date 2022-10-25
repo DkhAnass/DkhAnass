@@ -45,7 +45,8 @@ Sciences (Grenoble INP - Phelma, UGA). I use this page as a gateway to share all
   </a>
 </p>
 <p align="center">
-[![Dkheila Anass's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkhAnass&count_private=true)](https://github.com/DkhAnass/github-readme-stats)
+<a [![Dkheila Anass's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkhAnass&count_private=true)](https://github.com/DkhAnass/github-readme-stats) /> 
+</a>
 </p>
 
 
